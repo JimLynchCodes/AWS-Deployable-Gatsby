@@ -1,4 +1,40 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+
+# (Almost) Usage
+
+## Use Jim's favorite Node Version with NVM:
+```
+nvm use v11.15
+```
+
+## Install
+```
+npm i
+```
+
+## Develop
+```
+npm start
+```
+
+## Build
+```
+npm run build
+```
+
+## Deploy that garbagio!
+```
+npm run deploy
+```
+
+
+--- 
+
+## (AUTO GENERATED CONTENT)
+
+<br/>
+<br/>
+<br/>
+<br/>
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
