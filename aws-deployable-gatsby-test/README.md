@@ -1,3 +1,32 @@
+
+# (Almost) Usage
+
+## Use Jim's favorite Node Version with NVM:
+```
+nvm use v11.15
+```
+
+## Install
+```
+npm i
+```
+
+## Develop
+```
+npm start
+```
+
+## Build
+```
+npm run build
+```
+
+Deploy that garbagio!
+```
+npm run deploy
+```
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
